@@ -17,12 +17,12 @@ This Project uses a number of open source libraries to work properly:
 - mkdirp - file manager
 
 ## Installation
+1. Add or Edit .md files in /tool/src/pages
 
-Install the dependencies and/or devDependencies and start the app.
+2. Install the dependencies and/or devDependencies and start the app.
 
 ```sh
 cd testProject
-npm i
 tool start
 ```
 
