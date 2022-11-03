@@ -1,5 +1,8 @@
 # cli-static-site-generator
 
+![image](https://user-images.githubusercontent.com/81875051/199852562-161079f5-99fc-46ac-b84f-2a04165ad6f4.png)
+
+
 Convert .md files into a static site (.html)
 Import/Edit .md files and watch them magically convert to html
 ## Tech
